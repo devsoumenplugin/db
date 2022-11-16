@@ -1,5 +1,5 @@
 
-# Bera Db
+# Db
 
 A simple mysql database warpper for php
 
